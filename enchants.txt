@@ -1,0 +1,1448 @@
+{
+    "abattoir": [
+        "5",
+        "Normal",
+        "Tridents",
+        "Increases damage against passive mobs"
+    ],
+    "abrasion": [
+        "2",
+        "Normal",
+        "Swords + Axes",
+        "Damages your opponents armor"
+    ],
+    "aerial": [
+        "3",
+        "Normal",
+        "Bows + Crossbows",
+        "Increases arrow damage when you are in air"
+    ],
+    "aiming": [
+        "5",
+        "Special",
+        "Bows",
+        "Arrows hone in on your target"
+    ],
+    "anger_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Spawns angry villager particles"
+    ],
+    "annihilate": [
+        "2",
+        "Special",
+        "Swords + Axes",
+        "Extreme knockback"
+    ],
+    "aquatic": [
+        "8",
+        "Normal",
+        "Tridents",
+        "Trident deals additional damage when shot from water"
+    ],
+    "arachnid": [
+        "5",
+        "Normal",
+        "Tridents",
+        "Increases damage against spiders"
+    ],
+    "arborist": [
+        "4",
+        "Normal",
+        "Axes + Shears",
+        "Get more sticks, apples, and saplings from leaves."
+    ],
+    "arcanic": [
+        "6",
+        "Normal",
+        "Armor",
+        "Chance to ignore potion damage"
+    ],
+    "ascend": [
+        "2",
+        "Spell",
+        "Swords",
+        "Levitates you into the air"
+    ],
+    "ash_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates basalt deltas particles (1.16+)"
+    ],
+    "atmospheric": [
+        "3",
+        "Normal",
+        "Tridents",
+        "Increases trident damage when you are in air"
+    ],
+    "aversion": [
+        "1",
+        "Normal",
+        "Helmets",
+        "Prevents angering endermen by looking at them"
+    ],
+    "backstab": [
+        "3",
+        "Normal",
+        "Swords + Axes",
+        "Increases damage when behind opponent"
+    ],
+    "beheading": [
+        "3",
+        "Normal",
+        "Swords + Axes",
+        "Chance of getting player or mob head"
+    ],
+    "bladed": [
+        "5",
+        "Special",
+        "Tridents",
+        "Trident deals extreme additional damage"
+    ],
+    "blast_mining": [
+        "1",
+        "Normal",
+        "Pickaxes",
+        "Mines blocks in a 3x3 area"
+    ],
+    "bleed": [
+        "7",
+        "Normal",
+        "Swords",
+        "Causes your opponent to bleed, damaging them repeatedly"
+    ],
+    "blind": [
+        "6",
+        "Normal",
+        "Bows + Crossbows",
+        "Chance of blinding your opponent"
+    ],
+    "block_breather": [
+        "3",
+        "Normal",
+        "Helmets",
+        "Chance to ignore suffocation damage"
+    ],
+    "bolt": [
+        "4",
+        "Special",
+        "Sword",
+        "Chance of striking powerful lightning on your opponent"
+    ],
+    "boss_hunter": [
+        "8",
+        "Normal",
+        "Bows + Crossbows",
+        "Increases damage against bosses"
+    ],
+    "buckshot": [
+        "2",
+        "Normal",
+        "Bows",
+        "Shoots multiple arrows spread out"
+    ],
+    "butchering": [
+        "5",
+        "Normal",
+        "Swords + Axes",
+        "Increases damage against passive mobs"
+    ],
+    "carve": [
+        "8",
+        "Normal",
+        "Axes",
+        "Heavily damage all entities around attacked entity"
+    ],
+    "cerebral": [
+        "8",
+        "Normal",
+        "Bows + Crossbows",
+        "Increases damage on headshots"
+    ],
+    "charge": [
+        "6",
+        "Spell",
+        "Swords",
+        "Launches you in the direction you're looking"
+    ],
+    "chopless": [
+        "6",
+        "Normal",
+        "Armor",
+        "Reduces damage dealt by axes"
+    ],
+    "cleave": [
+        "8",
+        "Normal",
+        "Axes",
+        "Damage all entities around attacked entity"
+    ],
+    "clouds_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates cloud particles"
+    ],
+    "collateral": [
+        "4",
+        "Normal",
+        "Bows",
+        "Arrows can go through entities"
+    ],
+    "conclude": [
+        "5",
+        "Normal",
+        "Tridents",
+        "Chace to instantly kill entities on low health"
+    ],
+    "confusion": [
+        "4",
+        "Special",
+        "Swords",
+        "Chance to shuffle your opponents hotbar"
+    ],
+    "copper_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates copper particles"
+    ],
+    "corrosive": [
+        "2",
+        "Normal",
+        "Bows + Crossbows",
+        "Damages your opponents armor"
+    ],
+    "cranial": [
+        "8",
+        "Normal",
+        "Tridents",
+        "Increases damage on headshots"
+    ],
+    "crimson_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates crimson forest particles (1.16+)"
+    ],
+    "criticals": [
+        "3",
+        "Normal",
+        "Swords + Axes",
+        "Increases critical damage"
+    ],
+    "cubism": [
+        "7",
+        "Normal",
+        "Swords + Axes",
+        "Increases damage dealt against slimes and magma cubes"
+    ],
+    "curse_of_breaklessness": [
+        "1",
+        "Curse",
+        "Tools",
+        "Chance to prevent block breaking"
+    ],
+    "curse_of_calling": [
+        "1",
+        "Curse",
+        "Armor",
+        "Angers all nearby mobs"
+    ],
+    "curse_of_decay": [
+        "1",
+        "Curse",
+        "Everything",
+        "Automatically damages items when not held"
+    ],
+    "curse_of_fragility": [
+        "1",
+        "Curse",
+        "Everything",
+        "Decreases item durability"
+    ],
+    "curse_of_harmlessness": [
+        "1",
+        "Curse",
+        "Swords + Axes",
+        "Chance for attacks to do nothing"
+    ],
+    "curse_of_hunger": [
+        "1",
+        "Curse",
+        "Helmets",
+        "Increases hunger loss"
+    ],
+    "curse_of_inaccuracy": [
+        "1",
+        "Curse",
+        "Bows",
+        "Arrows fire incorrectly"
+    ],
+    "curse_of_misfortune": [
+        "1",
+        "Curse",
+        "Tools",
+        "Chance of blocks to not drop items"
+    ],
+    "curse_of_permanence": [
+        "1",
+        "Curse",
+        "Everything",
+        "Prevents item from being modified in an anvil"
+    ],
+    "damage_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates damage particles"
+    ],
+    "defender": [
+        "1",
+        "Normal",
+        "Bows + Crossbows",
+        "Prevents damaging your own pets"
+    ],
+    "deflection": [
+        "6",
+        "Normal",
+        "Shields",
+        "Rebounds some incoming damage back to your attacker"
+    ],
+    "defusion": [
+        "5",
+        "Normal",
+        "Swords + Axes",
+        "Increases damage against creepers"
+    ],
+    "dexterous": [
+        "2",
+        "Normal",
+        "Swords + Axes",
+        "Increases attack speed"
+    ],
+    "disable": [
+        "3",
+        "Normal",
+        "Axes",
+        "Chance of giving your opponent extreme mining fatigue"
+    ],
+    "disappear": [
+        "6",
+        "Normal",
+        "Armor",
+        "Go invisible if damaged on low health"
+    ],
+    "diurnal": [
+        "6",
+        "Normal",
+        "Swords",
+        "Increases damage dealt at daytime"
+    ],
+    "diverse": [
+        "6",
+        "Normal",
+        "Axes",
+        "Increases damage dealt against players holding swords"
+    ],
+    "dousing": [
+        "8",
+        "Normal",
+        "Bows + Crossbows",
+        "Chance to put out fires on hit block"
+    ],
+    "dragon_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates dragon breath particles"
+    ],
+    "drill": [
+        "5",
+        "Normal",
+        "Tools",
+        "Mines blocks behind other blocks"
+    ],
+    "dullness": [
+        "3",
+        "Normal",
+        "Swords",
+        "Chance of giving your opponent weakness"
+    ],
+    "dust_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates dust particles"
+    ],
+    "dweller": [
+        "3",
+        "Normal",
+        "Swords + Axes",
+        "Increases damage against illagers"
+    ],
+    "dynamite": [
+        "1",
+        "Spell",
+        "Pickaxes",
+        "Mines blocks in a large area"
+    ],
+    "economical": [
+        "4",
+        "Normal",
+        "Elytra",
+        "Chance to not consume fireworks while boosting (Requires Paper!)"
+    ],
+    "electroshock": [
+        "3",
+        "Normal",
+        "Shields",
+        "Chance to strike lightning on your attacker"
+    ],
+    "emerald_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates emerald particles"
+    ],
+    "enchantment_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates enchantment particles"
+    ],
+    "end_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates end rod particles"
+    ],
+    "end_infusion": [
+        "6",
+        "Normal",
+        "Swords",
+        "Increases damage dealt in the end"
+    ],
+    "ender_slayer": [
+        "5",
+        "Normal",
+        "Swords + Axes",
+        "Increases damage against end mobs"
+    ],
+    "enderism": [
+        "6",
+        "Normal",
+        "Bows + Crossbows",
+        "Increases damage dealt in the end"
+    ],
+    "energizing": [
+        "3",
+        "Special",
+        "Tools",
+        "Receive a short burst of haste after breaking a block"
+    ],
+    "evasion": [
+        "3",
+        "Normal",
+        "Armor",
+        "Chance to ignore incoming damage"
+    ],
+    "extinguishing": [
+        "3",
+        "Normal",
+        "Armor",
+        "Chance to remove fire when taking fire damage"
+    ],
+    "extract": [
+        "6",
+        "Normal",
+        "Tridents",
+        "Heals a portion of damage dealt"
+    ],
+    "famine": [
+        "8",
+        "Normal",
+        "Swords",
+        "Chance of giving your opponent hunger"
+    ],
+    "farmhand": [
+        "2",
+        "Normal",
+        "Hoes",
+        "Till blocks around initial blocks"
+    ],
+    "fetching": [
+        "1",
+        "Normal",
+        "Helmets",
+        "Drops and xp from wolf kills go directly into your inventory"
+    ],
+    "finality": [
+        "5",
+        "Normal",
+        "Bows",
+        "Chance to instantly kill entities on low health"
+    ],
+    "finishing": [
+        "5",
+        "Normal",
+        "Swords",
+        "Chance to instantly kill entities on low health"
+    ],
+    "fire_affinity": [
+        "7",
+        "Normal",
+        "Swords",
+        "Increases damage dealt when on fire"
+    ],
+    "fire_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates fire particles"
+    ],
+    "first_strike": [
+        "5",
+        "Normal",
+        "Swords",
+        "Increases damage dealt when entity is on max health"
+    ],
+    "flinch": [
+        "6",
+        "Normal",
+        "Shields",
+        "Chance to blind your attacker"
+    ],
+    "force": [
+        "8",
+        "Special",
+        "Bows",
+        "Massively increases arrow damage"
+    ],
+    "forcefield": [
+        "2",
+        "Normal",
+        "Armor",
+        "Damages all nearby monsters"
+    ],
+    "freerunner": [
+        "6",
+        "Normal",
+        "Boots",
+        "Chance to ignore fall damage"
+    ],
+    "frenzy": [
+        "3",
+        "Special",
+        "Swords",
+        "Gives strength after killing an entity"
+    ],
+    "frozen": [
+        "6",
+        "Normal",
+        "Armor",
+        "Chance to give your attacker slowness"
+    ],
+    "fury": [
+        "7",
+        "Normal",
+        "Swords",
+        "Chance of angering nearby monsters towards your opponent"
+    ],
+    "glow_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates glow particles"
+    ],
+    "goliath": [
+        "8",
+        "Normal",
+        "Swords",
+        "Increases damage against entities with more health than you"
+    ],
+    "graceful": [
+        "6",
+        "Normal",
+        "Boots",
+        "Chance of getting slow falling just above hitting the ground"
+    ],
+    "grapple": [
+        "2",
+        "Normal",
+        "Swords + Axes",
+        "Pulls entities towards you"
+    ],
+    "green_thumb": [
+        "1",
+        "Normal",
+        "Hoes",
+        "Left clicking dirt turns it to grass"
+    ],
+    "grit": [
+        "3",
+        "Normal",
+        "Armor",
+        "Damages your opponents weapon"
+    ],
+    "harpoon": [
+        "3",
+        "Special",
+        "Fishing Rods",
+        "Hooking onto an entity will heavily damage it"
+    ],
+    "heart_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates heart particles"
+    ],
+    "hellish": [
+        "6",
+        "Normal",
+        "Tridents",
+        "Increases damage dealt in the nether"
+    ],
+    "honey_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates dripping honey particles"
+    ],
+    "hook": [
+        "2",
+        "Normal",
+        "Bows",
+        "Pulls entities towards you"
+    ],
+    "horde": [
+        "4",
+        "Normal",
+        "Swords",
+        "Increases damage dealt the more mobs are nearby"
+    ],
+    "ice_shot": [
+        "3",
+        "Normal",
+        "Bows + Crossbows",
+        "Chance of freezing your opponent"
+    ],
+    "identify": [
+        "2",
+        "Normal",
+        "Shields",
+        "Chance to give your attacker glowing"
+    ],
+    "ignite": [
+        "8",
+        "Normal",
+        "Bows + Crossbows",
+        "Chance to light hit block on fire"
+    ],
+    "illusion_aspect": [
+        "2",
+        "Normal",
+        "Swords",
+        "Chance to blind and nauseate opponent"
+    ],
+    "impact": [
+        "3",
+        "Normal",
+        "Tridents",
+        "Small chance to deal extreme damage"
+    ],
+    "incandescence": [
+        "2",
+        "Normal",
+        "Armor",
+        "Light your attacker on fire"
+    ],
+    "indestructibility": [
+        "3",
+        "Special",
+        "Everything",
+        "Massively increases item durability"
+    ],
+    "infernal_touch": [
+        "1",
+        "Normal",
+        "Tools",
+        "Automatically smelt mined blocks"
+    ],
+    "inferno": [
+        "1",
+        "Normal",
+        "Tridents",
+        "Flaming tridents"
+    ],
+    "infuriate": [
+        "7",
+        "Normal",
+        "Shields",
+        "Chance to cause nearby mobs to attack your opponent"
+    ],
+    "ink_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates ink particles"
+    ],
+    "insecticide": [
+        "5",
+        "Normal",
+        "Bows",
+        "Increases damage against spiders"
+    ],
+    "instability": [
+        "3",
+        "Special",
+        "Bows + Crossbows",
+        "Explosive arrows"
+    ],
+    "instantaneous": [
+        "7",
+        "Normal",
+        "Tools",
+        "Chance of instantly breaking blocks"
+    ],
+    "intellect": [
+        "3",
+        "Special",
+        "Tools, Weapons, Ranged",
+        "Massively increases dropped experience"
+    ],
+    "introversion": [
+        "5",
+        "Normal",
+        "Swords + Axes",
+        "Increases damage against players"
+    ],
+    "invigoration": [
+        "3",
+        "Normal",
+        "Armor",
+        "Increases outgoing damage and reduces incoming damage when low on health"
+    ],
+    "kinetic": [
+        "6",
+        "Normal",
+        "Elytra",
+        "Reduces damage taken when flying into a wall"
+    ],
+    "launch": [
+        "8",
+        "Normal",
+        "Elytra",
+        "Fireworks give a short burst of extreme speed"
+    ],
+    "lava_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates dripping lava particles"
+    ],
+    "leeching": [
+        "6",
+        "Normal",
+        "Swords + Axes",
+        "Heals a portion of damage dealt"
+    ],
+    "lesion": [
+        "7",
+        "Normal",
+        "Tridents",
+        "Causes your opponent to bleed, damaging them repeatedly"
+    ],
+    "levitate": [
+        "2",
+        "Normal",
+        "Bows + Crossbows",
+        "Chance of applying levitation to your opponent"
+    ],
+    "life_steal": [
+        "6",
+        "Special",
+        "Swords + Axes",
+        "Heals a large portion of damage dealt"
+    ],
+    "light_artifact_": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates light particles"
+    ],
+    "lime_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates lime particles"
+    ],
+    "liquid_shot": [
+        "5",
+        "Normal",
+        "Bows + Crossbows",
+        "Increases damage against fiery mobs and endermen"
+    ],
+    "lucky_catch": [
+        "3",
+        "Normal",
+        "Fishing Rods",
+        "Chance to double fishing drops"
+    ],
+    "lumberjack": [
+        "6",
+        "Normal",
+        "Axes",
+        "Instantly cut down entire trees"
+    ],
+    "magic_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates magic particles"
+    ],
+    "magma_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates lava pop particles"
+    ],
+    "magma_walker": [
+        "2",
+        "Normal",
+        "Boots",
+        "Turns lava beneath the player into obsidian"
+    ],
+    "magnetic": [
+        "4",
+        "Normal",
+        "Boots",
+        "Items and XP go towards you"
+    ],
+    "marking": [
+        "4",
+        "Normal",
+        "Bows + Crossbows",
+        "Increases subsequent damage dealt to opponent"
+    ],
+    "marksman": [
+        "1",
+        "Normal",
+        "Bows + Crossbows",
+        "Removes arrow drop"
+    ],
+    "missile": [
+        "1",
+        "Spell",
+        "Swords",
+        "Shoots a wither skull"
+    ],
+    "music_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates note particles"
+    ],
+    "nautilus_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Spawns nautilus particles"
+    ],
+    "necrotic": [
+        "4",
+        "Normal",
+        "Swords",
+        "Wither skeletons have a higher chance to drop skulls"
+    ],
+    "nether_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates nether portal particles"
+    ],
+    "nether_infusion": [
+        "6",
+        "Normal",
+        "Swords",
+        "Increases damage dealt in the nether"
+    ],
+    "netheric": [
+        "6",
+        "Normal",
+        "Bows + Crossbows",
+        "Increases damage dealt in the nether"
+    ],
+    "nocturnal": [
+        "6",
+        "Normal",
+        "Swords",
+        "Increases damage dealt at night"
+    ],
+    "optics": [
+        "5",
+        "Normal",
+        "Bows + Crossbows",
+        "Increases damage when further from target"
+    ],
+    "oxygenate": [
+        "8",
+        "Normal",
+        "Tools",
+        "Gain oxygen when breaking blocks underwater"
+    ],
+    "pacify": [
+        "5",
+        "Normal",
+        "Tridents",
+        "Increases damage against creepers"
+    ],
+    "paladin": [
+        "3",
+        "Normal",
+        "Swords",
+        "Increases damage dealt when riding a horse"
+    ],
+    "paralyze": [
+        "6",
+        "Normal",
+        "Shields",
+        "Chance to give your attacker mining fatigue"
+    ],
+    "parasitic": [
+        "6",
+        "Normal",
+        "Ranged",
+        "Heals a portion of damage dealt"
+    ],
+    "parry": [
+        "4",
+        "Normal",
+        "Swords",
+        "Reduces incoming damage when holding item"
+    ],
+    "pentashot": [
+        "1",
+        "Special",
+        "Bows",
+        "Shoots 5 arrows"
+    ],
+    "phantasm": [
+        "5",
+        "Normal",
+        "Tridents",
+        "Increases damage against undead mobs"
+    ],
+    "plasmic": [
+        "5",
+        "Normal",
+        "Swords",
+        "Increases damage dealt against opponents with diamond or netherite armor"
+    ],
+    "preservation": [
+        "4",
+        "Special",
+        "Armor",
+        "Massively reduces incoming damage"
+    ],
+    "prosperity": [
+        "3",
+        "Special",
+        "Armor",
+        "Massively increases maximum health"
+    ],
+    "protector": [
+        "1",
+        "Normal",
+        "Swords + Axes",
+        "Prevents damaging your own pets"
+    ],
+    "proximity": [
+        "5",
+        "Normal",
+        "Swords",
+        "Increases damage when closer to opponent"
+    ],
+    "puncture": [
+        "6",
+        "Normal",
+        "Tridents",
+        "Trident deals additional damage to shelled mobs"
+    ],
+    "quadrilateralism": [
+        "7",
+        "Normal",
+        "Bows + Crossbows",
+        "Increases damage dealt against slimes and magma cubes"
+    ],
+    "quake": [
+        "1",
+        "Spell",
+        "Swords",
+        "Damages all nearby entities"
+    ],
+    "radiance": [
+        "4",
+        "Normal",
+        "Bows + Crossbows",
+        "Causes entities to glow near where arrow lands"
+    ],
+    "rage": [
+        "5",
+        "Normal",
+        "Bows",
+        "Chance of angering nearby monsters towards your opponent"
+    ],
+    "rain_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates rain particles"
+    ],
+    "rapid": [
+        "6",
+        "Normal",
+        "Bows",
+        "Increases bow pull speed"
+    ],
+    "razor": [
+        "8",
+        "Special",
+        "Swords",
+        "Massively increases damage dealt"
+    ],
+    "reaper": [
+        "3",
+        "Normal",
+        "Swords + Axes",
+        "Chance to prevent your opponents soulbound from working"
+    ],
+    "rebounding": [
+        "2",
+        "Normal",
+        "Armor",
+        "Deal knockback to entities that attack you"
+    ],
+    "redstone_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates redstone particles"
+    ],
+    "reel": [
+        "2",
+        "Normal",
+        "Fishing Rods",
+        "Pulls entities towards you"
+    ],
+    "reinforcement": [
+        "4",
+        "Normal",
+        "Elytra",
+        "Reduces incoming damage"
+    ],
+    "rejuvenation": [
+        "2",
+        "Normal",
+        "Armor",
+        "Increases natural regeneration speed"
+    ],
+    "repairing": [
+        "3",
+        "Special",
+        "Everything",
+        "Automatically repairs items when not held"
+    ],
+    "replenish": [
+        "1",
+        "Normal",
+        "Hoes",
+        "Automatically replants crops"
+    ],
+    "respirator": [
+        "6",
+        "Normal",
+        "Helmets",
+        "Reduces dragon breath damage"
+    ],
+    "revenant": [
+        "5",
+        "Normal",
+        "Bows",
+        "Increases damage against undead mobs"
+    ],
+    "sating": [
+        "6",
+        "Normal",
+        "Helmets",
+        "Reduces hunger loss"
+    ],
+    "serrated": [
+        "5",
+        "Normal",
+        "Tridents",
+        "Trident deals additional damage"
+    ],
+    "settle": [
+        "5",
+        "Normal",
+        "Bows",
+        "Increases damage against creepers"
+    ],
+    "shockwave": [
+        "3",
+        "Normal",
+        "Bows",
+        "Damages entities that arrows fly near"
+    ],
+    "shot_assist": [
+        "6",
+        "Normal",
+        "Armor",
+        "Deal more damage with arrows while wearing"
+    ],
+    "sickening": [
+        "2",
+        "Normal",
+        "Bows + Crossbows",
+        "Chance of nauseating your opponent"
+    ],
+    "skulk_artifact_": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates skulk vibration particles"
+    ],
+    "slaughter": [
+        "5",
+        "Normal",
+        "Bows",
+        "Increases damage against passive mobs"
+    ],
+    "slicing": [
+        "8",
+        "Normal",
+        "Elytra",
+        "Damages entities when flown through"
+    ],
+    "slime_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates slime particles"
+    ],
+    "smoke_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates smoke particles"
+    ],
+    "snow_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates snow particles"
+    ],
+    "soul_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates soul particles (1.16+)"
+    ],
+    "soul_fire_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates soul flame particles (1.16+)"
+    ],
+    "soulbound": [
+        "1",
+        "Special",
+        "Everything",
+        "Keep this item on death"
+    ],
+    "spark_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates spark particles"
+    ],
+    "sparkle_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates firework particles"
+    ],
+    "spearfishing": [
+        "6",
+        "Normal",
+        "Tridents",
+        "Chance of dropping fish when tridenting water"
+    ],
+    "spiked": [
+        "3",
+        "Normal",
+        "Fishing Rods",
+        "Hooking onto an entity will damage it"
+    ],
+    "splash": [
+        "4",
+        "Normal",
+        "Tridents",
+        "Damages entities near where trident lands but does not drop experience"
+    ],
+    "spore_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates dripleaf spore particles"
+    ],
+    "spring": [
+        "3",
+        "Special",
+        "Boots",
+        "Increases jump height and distance"
+    ],
+    "stab": [
+        "5",
+        "Normal",
+        "Tridents",
+        "Increases melee trident damage"
+    ],
+    "stalwart": [
+        "3",
+        "Normal",
+        "Armor",
+        "Chance to get resistance for a short time when taking damage"
+    ],
+    "stamina": [
+        "4",
+        "Normal",
+        "Boots",
+        "Decreases hunger loss while sprinting"
+    ],
+    "stone_switcher": [
+        "6",
+        "Normal",
+        "Pickaxes",
+        "Breaking stone can drop as variants"
+    ],
+    "stray_aspect": [
+        "6",
+        "Normal",
+        "Swords",
+        "Chance of slowing your opponent"
+    ],
+    "streamlining": [
+        "8",
+        "Special",
+        "Boots",
+        "Increases movement speed"
+    ],
+    "succession": [
+        "1",
+        "Normal",
+        "Bows",
+        "Shoots multiple arrows in a burst"
+    ],
+    "supercritical": [
+        "3",
+        "Normal",
+        "Swords",
+        "Small chance to deal extreme damage"
+    ],
+    "sweep_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Spawns sweeping attack particles"
+    ],
+    "sycophant": [
+        "6",
+        "Normal",
+        "Shields",
+        "Heals a portion of damage blocked"
+    ],
+    "tear_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates crying obsidian particles (1.16+)"
+    ],
+    "tectonic": [
+        "2",
+        "Normal",
+        "Boots",
+        "Damages nearby entities when taking fall damage"
+    ],
+    "telekinesis": [
+        "1",
+        "Normal",
+        "Tools, Weapons, Ranged",
+        "Drops and xp go directly into your inventory"
+    ],
+    "thor": [
+        "6",
+        "Normal",
+        "Swords",
+        "Chance of striking lightning on your opponent"
+    ],
+    "thrive": [
+        "2",
+        "Normal",
+        "Armor",
+        "Increases maximum health"
+    ],
+    "tornado": [
+        "2",
+        "Normal",
+        "Swords + Axes",
+        "Knocks your opponent into the air"
+    ],
+    "totem_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates totem particles"
+    ],
+    "toxic": [
+        "2",
+        "Normal",
+        "Swords",
+        "Chance to apply poison to your opponent"
+    ],
+    "transfuse": [
+        "7",
+        "Normal",
+        "Pickaxes",
+        "Breaking stone can drop as random ore"
+    ],
+    "tripleshot": [
+        "1",
+        "Normal",
+        "Bows",
+        "Shoots 3 arrows"
+    ],
+    "vampire_aspect": [
+        "2",
+        "Normal",
+        "Swords",
+        "Chance to apply wither to your opponent"
+    ],
+    "vein": [
+        "5",
+        "Normal",
+        "Pickaxes",
+        "Mine blocks in a vein"
+    ],
+    "venom": [
+        "6",
+        "Normal",
+        "Bows + Crossbows",
+        "Chance of withering your opponent"
+    ],
+    "villager_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Spawns happy villager particles"
+    ],
+    "vitalize": [
+        "1",
+        "Spell",
+        "Swords",
+        "Puts you back on max health"
+    ],
+    "void_affinity": [
+        "5",
+        "Normal",
+        "Tridents",
+        "Increases damage dealt in the end"
+    ],
+    "volatile": [
+        "2",
+        "Special",
+        "Swords",
+        "Explosive sword attacks"
+    ],
+    "voltage": [
+        "5",
+        "Normal",
+        "Swords",
+        "Increases damage dealt against opponents with iron, gold, or chain armor"
+    ],
+    "warped_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates warped forest particles (1.16+)"
+    ],
+    "water_affinity": [
+        "7",
+        "Normal",
+        "Swords",
+        "Increases damage dealt when in water"
+    ],
+    "water_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates dripping water particles"
+    ],
+    "water_aspect": [
+        "2",
+        "Normal",
+        "Swords + Axes",
+        "Increases damage dealt against fiery mobs and endermen"
+    ],
+    "wax_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates wax particles"
+    ],
+    "weakening": [
+        "4",
+        "Normal",
+        "Swords",
+        "Increases subsequent damage dealt to opponent"
+    ],
+    "wisdom": [
+        "3",
+        "Normal",
+        "Tools, Weapons, Ranged",
+        "Increases dropped experience"
+    ],
+    "witch_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates witch particles"
+    ],
+    "wood_switcher": [
+        "6",
+        "Normal",
+        "Axes",
+        "Breaking logs can drop as other logs."
+    ],
+    "wound": [
+        "7",
+        "Normal",
+        "Bows + Crossbows",
+        "Causes your opponent to bleed, damaging them repeatedly"
+    ],
+    "zap_artifact": [
+        "1",
+        "Artifact",
+        "Artifact Items",
+        "Creates electric particles"
+    ],
+    "zeus": [
+        "6",
+        "Normal",
+        "Bows + Crossbows",
+        "Chance to strike lightning on your opponent"
+    ]
+}
