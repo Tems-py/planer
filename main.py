@@ -57,11 +57,13 @@ def get_timetable(team_class):
                 continue
             time_ = i
             day = kkk[j-2]
-            if "85%" in cell.get_text():
+            if "85%" in str(cell):
+                print(cell)
                 for m in cell.find_all('span'):
-                    type_ = cell.find('span', class_='p').text
-                    teacher = cell.find('a', class_='n').text
-                    room = cell.find('span', class_='s').text
+                    #print(m)
+                    type_ = m.find('span', class_='p').text
+                    teacher = m.find('a', class_='n').text
+                    room = m.find('span', class_='s').text
                     lesson = Lessons(title, type_, teacher, str(room), day, time_)
                     session.add(lesson)
             else:
@@ -114,5 +116,5 @@ def get_timetable(team_class):
 
 
 if __name__ == '__main__':
-    for x in range(1, 24):
+    for x in range(1, 2):
         threading.Thread(target=get_timetable, args=(f"o{x}",)).start()
